@@ -11,6 +11,7 @@ permissions:
 engine:
   id: copilot
   copilot-sdk: true
+model: auto
 strict: true
 tools:
   edit:
